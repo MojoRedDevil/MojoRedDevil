@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanda</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **a Food Redistribution App – A mobile application using Flutter and FastAPI to facilitate food donations and minimize waste.**
+- 🔭 I’m currently working on **a Food Redistribution App – A mobile application using React and FastAPI to facilitate food donations and minimize waste. Its for my Honours project so it's a secret for now 🤫 Stay Tuned!**
 
 - 🌱 I’m currently learning **Flutter for frontend development FastAPI for backend development AI-powered image classification & object detection**
 
